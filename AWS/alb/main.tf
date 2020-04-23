@@ -1,4 +1,4 @@
-#----networking/main.tf----
+#----alb/main.tf----
 
 provider "aws" {
   region = "us-east-1"
